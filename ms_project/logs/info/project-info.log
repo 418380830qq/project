@@ -1,0 +1,2 @@
+{"level":"INFO","time":"2022-12-03T20:32:16.209+0800","caller":"user/user.go:41","msg":"短信平台调用成功，发送短信  INFO"}
+{"level":"ERROR","time":"2022-12-03T20:32:16.211+0800","caller":"user/user.go:43","msg":"短信平台调用成功，发送短信  error"}
